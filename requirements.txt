@@ -1,0 +1,17 @@
+# Requirements for Blockchain Implementation
+
+# This project uses only Python standard library modules
+# No external dependencies are required for core functionality
+
+# Standard library modules used:
+# - hashlib (for MD5 hashing)
+# - time (for timestamps and performance measurement)
+
+# Optional development dependencies (for contributors):
+# flake8>=4.0.0          # Code style checking
+# pytest>=7.0.0          # Testing framework (if adding unit tests)
+# black>=22.0.0          # Code formatting (optional)
+
+# Note: This project is designed to work with Python 3.7+ 
+# using only built-in libraries to maximize compatibility
+# and educational value.
